@@ -1,5 +1,5 @@
 
-# EX-01
+# EX-02
 
 ## Aim
 To study basic prompt engineering techniques.
